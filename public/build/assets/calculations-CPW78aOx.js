@@ -1,0 +1,1 @@
+function e(e,t){return t===0?0:(e-t)/t*100}function t(e,t){return e*t}export{e as n,t};

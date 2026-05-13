@@ -1,0 +1,957 @@
+{
+  "_AppLayout-88sX-8Ec.js": {
+    "file": "assets/AppLayout-88sX-8Ec.js",
+    "name": "AppLayout",
+    "imports": [
+      "_jsx-runtime-BkrGPo5g.js",
+      "resources/js/app.tsx"
+    ]
+  },
+  "_Area-BDVHfbLu.js": {
+    "file": "assets/Area-BDVHfbLu.js",
+    "name": "Area",
+    "imports": [
+      "_jsx-runtime-BkrGPo5g.js",
+      "resources/js/app.tsx",
+      "_CartesianChart-CUpQHrll.js",
+      "_Line-ntlvVF96.js",
+      "_graphicalItemSelectors-G85J1gZJ.js"
+    ]
+  },
+  "_Badge-DoMRWgC7.js": {
+    "file": "assets/Badge-DoMRWgC7.js",
+    "name": "Badge",
+    "imports": [
+      "_jsx-runtime-BkrGPo5g.js"
+    ]
+  },
+  "_Button-DHKAKYrP.js": {
+    "file": "assets/Button-DHKAKYrP.js",
+    "name": "Button",
+    "imports": [
+      "_jsx-runtime-BkrGPo5g.js"
+    ]
+  },
+  "_Card-BT7TTlgg.js": {
+    "file": "assets/Card-BT7TTlgg.js",
+    "name": "Card",
+    "imports": [
+      "_jsx-runtime-BkrGPo5g.js"
+    ]
+  },
+  "_CartesianChart-CUpQHrll.js": {
+    "file": "assets/CartesianChart-CUpQHrll.js",
+    "name": "CartesianChart",
+    "imports": [
+      "_jsx-runtime-BkrGPo5g.js",
+      "resources/js/app.tsx"
+    ]
+  },
+  "_CategoryChip-BIQm_OD5.js": {
+    "file": "assets/CategoryChip-BIQm_OD5.js",
+    "name": "CategoryChip",
+    "imports": [
+      "_jsx-runtime-BkrGPo5g.js"
+    ]
+  },
+  "_CategorySelect-wmFt0h9c.js": {
+    "file": "assets/CategorySelect-wmFt0h9c.js",
+    "name": "CategorySelect",
+    "imports": [
+      "_jsx-runtime-BkrGPo5g.js",
+      "resources/js/app.tsx"
+    ]
+  },
+  "_ComposedChart-BXxoRZCy.js": {
+    "file": "assets/ComposedChart-BXxoRZCy.js",
+    "name": "ComposedChart",
+    "imports": [
+      "_jsx-runtime-BkrGPo5g.js",
+      "resources/js/app.tsx",
+      "_CartesianChart-CUpQHrll.js"
+    ]
+  },
+  "_GuestLayout-B4TJeG3F.js": {
+    "file": "assets/GuestLayout-B4TJeG3F.js",
+    "name": "GuestLayout",
+    "imports": [
+      "_jsx-runtime-BkrGPo5g.js"
+    ]
+  },
+  "_Input-BaLZHXMw.js": {
+    "file": "assets/Input-BaLZHXMw.js",
+    "name": "Input",
+    "imports": [
+      "_jsx-runtime-BkrGPo5g.js",
+      "resources/js/app.tsx"
+    ]
+  },
+  "_Line-ntlvVF96.js": {
+    "file": "assets/Line-ntlvVF96.js",
+    "name": "Line",
+    "imports": [
+      "_jsx-runtime-BkrGPo5g.js",
+      "resources/js/app.tsx",
+      "_CartesianChart-CUpQHrll.js"
+    ]
+  },
+  "_Modal-D-rHd-dq.js": {
+    "file": "assets/Modal-D-rHd-dq.js",
+    "name": "Modal",
+    "imports": [
+      "_jsx-runtime-BkrGPo5g.js",
+      "resources/js/app.tsx"
+    ]
+  },
+  "_ProgressBar-fNHIxi6a.js": {
+    "file": "assets/ProgressBar-fNHIxi6a.js",
+    "name": "ProgressBar",
+    "imports": [
+      "_jsx-runtime-BkrGPo5g.js"
+    ]
+  },
+  "_Select-B3UyekYz.js": {
+    "file": "assets/Select-B3UyekYz.js",
+    "name": "Select",
+    "imports": [
+      "_jsx-runtime-BkrGPo5g.js",
+      "resources/js/app.tsx"
+    ]
+  },
+  "_calculations-CPW78aOx.js": {
+    "file": "assets/calculations-CPW78aOx.js",
+    "name": "calculations"
+  },
+  "_currency-yJpms9Gs.js": {
+    "file": "assets/currency-yJpms9Gs.js",
+    "name": "currency"
+  },
+  "_graphicalItemSelectors-G85J1gZJ.js": {
+    "file": "assets/graphicalItemSelectors-G85J1gZJ.js",
+    "name": "graphicalItemSelectors"
+  },
+  "_jsx-runtime-BkrGPo5g.js": {
+    "file": "assets/jsx-runtime-BkrGPo5g.js",
+    "name": "jsx-runtime"
+  },
+  "_utils-lfUyGLJm.js": {
+    "file": "assets/utils-lfUyGLJm.js",
+    "name": "utils"
+  },
+  "resources/css/app.css": {
+    "file": "assets/app-DaAdN2k7.css",
+    "name": "app",
+    "names": [
+      "app.css"
+    ],
+    "src": "resources/css/app.css",
+    "isEntry": true
+  },
+  "resources/js/app.tsx": {
+    "file": "assets/app-Drwo84xX.js",
+    "name": "app",
+    "src": "resources/js/app.tsx",
+    "isEntry": true,
+    "imports": [
+      "_jsx-runtime-BkrGPo5g.js"
+    ],
+    "dynamicImports": [
+      "resources/js/pages/Accounts/Index.tsx",
+      "resources/js/pages/Accounts/Show.tsx",
+      "resources/js/pages/Accounts/components/AccountCard.tsx",
+      "resources/js/pages/Accounts/components/AccountForm.tsx",
+      "resources/js/pages/Accounts/components/TransferForm.tsx",
+      "resources/js/pages/Agro/Buyers/Index.tsx",
+      "resources/js/pages/Agro/Buyers/components/BuyerForm.tsx",
+      "resources/js/pages/Agro/Cycles/Index.tsx",
+      "resources/js/pages/Agro/Cycles/Show.tsx",
+      "resources/js/pages/Agro/Cycles/components/CycleForm.tsx",
+      "resources/js/pages/Agro/Cycles/components/CycleTimeline.tsx",
+      "resources/js/pages/Agro/Cycles/components/ExpenseForm.tsx",
+      "resources/js/pages/Agro/Cycles/components/ExpensesByPhase.tsx",
+      "resources/js/pages/Agro/Cycles/components/ProfitSummary.tsx",
+      "resources/js/pages/Agro/Cycles/components/SaleForm.tsx",
+      "resources/js/pages/Agro/Cycles/components/SalesList.tsx",
+      "resources/js/pages/Agro/Suppliers/Index.tsx",
+      "resources/js/pages/Agro/Suppliers/components/SupplierForm.tsx",
+      "resources/js/pages/Assets/Index.tsx",
+      "resources/js/pages/Assets/Show.tsx",
+      "resources/js/pages/Assets/components/AssetForm.tsx",
+      "resources/js/pages/Assets/components/AssetRow.tsx",
+      "resources/js/pages/Assets/components/BalanceTimeline.tsx",
+      "resources/js/pages/Assets/components/MovementForm.tsx",
+      "resources/js/pages/Assets/components/ProjectionChart.tsx",
+      "resources/js/pages/Auth/ForgotPassword.tsx",
+      "resources/js/pages/Auth/Login.tsx",
+      "resources/js/pages/Auth/Register.tsx",
+      "resources/js/pages/Categories/Index.tsx",
+      "resources/js/pages/Categories/components/CategoryForm.tsx",
+      "resources/js/pages/Dashboard/Index.tsx",
+      "resources/js/pages/Dashboard/components/AccountsSummary.tsx",
+      "resources/js/pages/Dashboard/components/AssetsList.tsx",
+      "resources/js/pages/Dashboard/components/DebtWidget.tsx",
+      "resources/js/pages/Dashboard/components/FixedExpensesWidget.tsx",
+      "resources/js/pages/Dashboard/components/RecentTransactions.tsx",
+      "resources/js/pages/Dashboard/components/RetirementWidget.tsx",
+      "resources/js/pages/Dashboard/components/SummaryCard.tsx",
+      "resources/js/pages/FixedExpenses/Index.tsx",
+      "resources/js/pages/FixedExpenses/components/ChecklistItem.tsx",
+      "resources/js/pages/FixedExpenses/components/FixedExpenseForm.tsx",
+      "resources/js/pages/FixedExpenses/components/SummaryPanel.tsx",
+      "resources/js/pages/Liabilities/Index.tsx",
+      "resources/js/pages/Liabilities/Show.tsx",
+      "resources/js/pages/Liabilities/components/LiabilityForm.tsx",
+      "resources/js/pages/Liabilities/components/RegisterPaymentModal.tsx",
+      "resources/js/pages/Projections/Index.tsx",
+      "resources/js/pages/Reports/Index.tsx",
+      "resources/js/pages/RetirementPlanner/Index.tsx",
+      "resources/js/pages/Transactions/Index.tsx",
+      "resources/js/pages/Transactions/components/TransactionFilters.tsx",
+      "resources/js/pages/Transactions/components/TransactionForm.tsx",
+      "resources/js/pages/Transactions/components/TransactionRow.tsx"
+    ],
+    "css": [
+      "assets/app-DaAdN2k7.css"
+    ]
+  },
+  "resources/js/pages/Accounts/Index.tsx": {
+    "file": "assets/Index-DIkMId_e.js",
+    "name": "Index",
+    "src": "resources/js/pages/Accounts/Index.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_jsx-runtime-BkrGPo5g.js",
+      "resources/js/app.tsx",
+      "_AppLayout-88sX-8Ec.js",
+      "_Button-DHKAKYrP.js",
+      "_Modal-D-rHd-dq.js",
+      "resources/js/pages/Accounts/components/AccountCard.tsx",
+      "resources/js/pages/Accounts/components/AccountForm.tsx",
+      "resources/js/pages/Accounts/components/TransferForm.tsx",
+      "_currency-yJpms9Gs.js"
+    ]
+  },
+  "resources/js/pages/Accounts/Show.tsx": {
+    "file": "assets/Show-ckGWoH0u.js",
+    "name": "Show",
+    "src": "resources/js/pages/Accounts/Show.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_jsx-runtime-BkrGPo5g.js",
+      "resources/js/app.tsx",
+      "_AppLayout-88sX-8Ec.js",
+      "_Badge-DoMRWgC7.js",
+      "_Button-DHKAKYrP.js",
+      "_currency-yJpms9Gs.js"
+    ]
+  },
+  "resources/js/pages/Accounts/components/AccountCard.tsx": {
+    "file": "assets/AccountCard-CV4odf3d.js",
+    "name": "AccountCard",
+    "src": "resources/js/pages/Accounts/components/AccountCard.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_jsx-runtime-BkrGPo5g.js",
+      "resources/js/app.tsx",
+      "_Badge-DoMRWgC7.js",
+      "_Button-DHKAKYrP.js",
+      "_currency-yJpms9Gs.js"
+    ]
+  },
+  "resources/js/pages/Accounts/components/AccountForm.tsx": {
+    "file": "assets/AccountForm-DB_SD99-.js",
+    "name": "AccountForm",
+    "src": "resources/js/pages/Accounts/components/AccountForm.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_jsx-runtime-BkrGPo5g.js",
+      "resources/js/app.tsx",
+      "_Button-DHKAKYrP.js",
+      "_Input-BaLZHXMw.js",
+      "_Select-B3UyekYz.js"
+    ]
+  },
+  "resources/js/pages/Accounts/components/TransferForm.tsx": {
+    "file": "assets/TransferForm-B1oEt8yQ.js",
+    "name": "TransferForm",
+    "src": "resources/js/pages/Accounts/components/TransferForm.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_jsx-runtime-BkrGPo5g.js",
+      "resources/js/app.tsx",
+      "_Button-DHKAKYrP.js",
+      "_Input-BaLZHXMw.js",
+      "_Select-B3UyekYz.js",
+      "_currency-yJpms9Gs.js"
+    ]
+  },
+  "resources/js/pages/Agro/Buyers/Index.tsx": {
+    "file": "assets/Index-DyMjGXYV.js",
+    "name": "Index",
+    "src": "resources/js/pages/Agro/Buyers/Index.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_jsx-runtime-BkrGPo5g.js",
+      "resources/js/app.tsx",
+      "_AppLayout-88sX-8Ec.js",
+      "_Badge-DoMRWgC7.js",
+      "_Button-DHKAKYrP.js",
+      "_Card-BT7TTlgg.js",
+      "_Modal-D-rHd-dq.js",
+      "_Select-B3UyekYz.js",
+      "resources/js/pages/Agro/Buyers/components/BuyerForm.tsx"
+    ]
+  },
+  "resources/js/pages/Agro/Buyers/components/BuyerForm.tsx": {
+    "file": "assets/BuyerForm-DOAd0sE_.js",
+    "name": "BuyerForm",
+    "src": "resources/js/pages/Agro/Buyers/components/BuyerForm.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_jsx-runtime-BkrGPo5g.js",
+      "resources/js/app.tsx",
+      "_Button-DHKAKYrP.js",
+      "_Input-BaLZHXMw.js",
+      "_Select-B3UyekYz.js"
+    ]
+  },
+  "resources/js/pages/Agro/Cycles/Index.tsx": {
+    "file": "assets/Index-DVShHpbp.js",
+    "name": "Index",
+    "src": "resources/js/pages/Agro/Cycles/Index.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_jsx-runtime-BkrGPo5g.js",
+      "resources/js/app.tsx",
+      "_AppLayout-88sX-8Ec.js",
+      "_Badge-DoMRWgC7.js",
+      "_Button-DHKAKYrP.js",
+      "_Card-BT7TTlgg.js",
+      "_Modal-D-rHd-dq.js",
+      "resources/js/pages/Agro/Cycles/components/CycleForm.tsx"
+    ]
+  },
+  "resources/js/pages/Agro/Cycles/Show.tsx": {
+    "file": "assets/Show-DqXIJ8Mu.js",
+    "name": "Show",
+    "src": "resources/js/pages/Agro/Cycles/Show.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_jsx-runtime-BkrGPo5g.js",
+      "resources/js/app.tsx",
+      "_AppLayout-88sX-8Ec.js",
+      "_Badge-DoMRWgC7.js",
+      "_Button-DHKAKYrP.js",
+      "_Card-BT7TTlgg.js",
+      "_Modal-D-rHd-dq.js",
+      "resources/js/pages/Agro/Cycles/components/CycleTimeline.tsx",
+      "resources/js/pages/Agro/Cycles/components/ExpenseForm.tsx",
+      "resources/js/pages/Agro/Cycles/components/ExpensesByPhase.tsx",
+      "resources/js/pages/Agro/Cycles/components/ProfitSummary.tsx",
+      "resources/js/pages/Agro/Cycles/components/SaleForm.tsx",
+      "resources/js/pages/Agro/Cycles/components/SalesList.tsx"
+    ]
+  },
+  "resources/js/pages/Agro/Cycles/components/CycleForm.tsx": {
+    "file": "assets/CycleForm-Cc4gRqK-.js",
+    "name": "CycleForm",
+    "src": "resources/js/pages/Agro/Cycles/components/CycleForm.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_jsx-runtime-BkrGPo5g.js",
+      "resources/js/app.tsx",
+      "_Button-DHKAKYrP.js",
+      "_Input-BaLZHXMw.js",
+      "_Select-B3UyekYz.js"
+    ]
+  },
+  "resources/js/pages/Agro/Cycles/components/CycleTimeline.tsx": {
+    "file": "assets/CycleTimeline-BHDORVyI.js",
+    "name": "CycleTimeline",
+    "src": "resources/js/pages/Agro/Cycles/components/CycleTimeline.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_jsx-runtime-BkrGPo5g.js"
+    ]
+  },
+  "resources/js/pages/Agro/Cycles/components/ExpenseForm.tsx": {
+    "file": "assets/ExpenseForm-CoCvHBhs.js",
+    "name": "ExpenseForm",
+    "src": "resources/js/pages/Agro/Cycles/components/ExpenseForm.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_jsx-runtime-BkrGPo5g.js",
+      "resources/js/app.tsx",
+      "_Button-DHKAKYrP.js",
+      "_CategorySelect-wmFt0h9c.js",
+      "_Input-BaLZHXMw.js",
+      "_Select-B3UyekYz.js"
+    ]
+  },
+  "resources/js/pages/Agro/Cycles/components/ExpensesByPhase.tsx": {
+    "file": "assets/ExpensesByPhase-D903r6Mh.js",
+    "name": "ExpensesByPhase",
+    "src": "resources/js/pages/Agro/Cycles/components/ExpensesByPhase.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_jsx-runtime-BkrGPo5g.js",
+      "resources/js/app.tsx",
+      "_Badge-DoMRWgC7.js",
+      "_Button-DHKAKYrP.js",
+      "_CategoryChip-BIQm_OD5.js",
+      "_currency-yJpms9Gs.js"
+    ]
+  },
+  "resources/js/pages/Agro/Cycles/components/ProfitSummary.tsx": {
+    "file": "assets/ProfitSummary-DFZ_GQfE.js",
+    "name": "ProfitSummary",
+    "src": "resources/js/pages/Agro/Cycles/components/ProfitSummary.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_jsx-runtime-BkrGPo5g.js",
+      "_calculations-CPW78aOx.js",
+      "_currency-yJpms9Gs.js"
+    ]
+  },
+  "resources/js/pages/Agro/Cycles/components/SaleForm.tsx": {
+    "file": "assets/SaleForm-BXy58Oyc.js",
+    "name": "SaleForm",
+    "src": "resources/js/pages/Agro/Cycles/components/SaleForm.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_jsx-runtime-BkrGPo5g.js",
+      "resources/js/app.tsx",
+      "_Button-DHKAKYrP.js",
+      "_Input-BaLZHXMw.js",
+      "_Select-B3UyekYz.js"
+    ]
+  },
+  "resources/js/pages/Agro/Cycles/components/SalesList.tsx": {
+    "file": "assets/SalesList-B8oflI6Q.js",
+    "name": "SalesList",
+    "src": "resources/js/pages/Agro/Cycles/components/SalesList.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_jsx-runtime-BkrGPo5g.js",
+      "resources/js/app.tsx",
+      "_Button-DHKAKYrP.js",
+      "_currency-yJpms9Gs.js"
+    ]
+  },
+  "resources/js/pages/Agro/Suppliers/Index.tsx": {
+    "file": "assets/Index-Cscr3AsQ.js",
+    "name": "Index",
+    "src": "resources/js/pages/Agro/Suppliers/Index.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_jsx-runtime-BkrGPo5g.js",
+      "resources/js/app.tsx",
+      "_AppLayout-88sX-8Ec.js",
+      "_Badge-DoMRWgC7.js",
+      "_Button-DHKAKYrP.js",
+      "_Card-BT7TTlgg.js",
+      "_Modal-D-rHd-dq.js",
+      "_Select-B3UyekYz.js",
+      "resources/js/pages/Agro/Suppliers/components/SupplierForm.tsx"
+    ]
+  },
+  "resources/js/pages/Agro/Suppliers/components/SupplierForm.tsx": {
+    "file": "assets/SupplierForm-BiMEy5wz.js",
+    "name": "SupplierForm",
+    "src": "resources/js/pages/Agro/Suppliers/components/SupplierForm.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_jsx-runtime-BkrGPo5g.js",
+      "resources/js/app.tsx",
+      "_Button-DHKAKYrP.js",
+      "_Input-BaLZHXMw.js",
+      "_Select-B3UyekYz.js"
+    ]
+  },
+  "resources/js/pages/Assets/Index.tsx": {
+    "file": "assets/Index-D8zQ66Gn.js",
+    "name": "Index",
+    "src": "resources/js/pages/Assets/Index.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_jsx-runtime-BkrGPo5g.js",
+      "resources/js/app.tsx",
+      "_AppLayout-88sX-8Ec.js",
+      "_Badge-DoMRWgC7.js",
+      "_Button-DHKAKYrP.js",
+      "_Card-BT7TTlgg.js",
+      "_Modal-D-rHd-dq.js",
+      "resources/js/pages/Assets/components/AssetForm.tsx",
+      "_currency-yJpms9Gs.js"
+    ]
+  },
+  "resources/js/pages/Assets/Show.tsx": {
+    "file": "assets/Show-JjsbxGek.js",
+    "name": "Show",
+    "src": "resources/js/pages/Assets/Show.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_jsx-runtime-BkrGPo5g.js",
+      "resources/js/app.tsx",
+      "_AppLayout-88sX-8Ec.js",
+      "_Badge-DoMRWgC7.js",
+      "_Button-DHKAKYrP.js",
+      "_Card-BT7TTlgg.js",
+      "_Modal-D-rHd-dq.js",
+      "resources/js/pages/Assets/components/BalanceTimeline.tsx",
+      "resources/js/pages/Assets/components/MovementForm.tsx",
+      "resources/js/pages/Assets/components/ProjectionChart.tsx",
+      "_currency-yJpms9Gs.js"
+    ]
+  },
+  "resources/js/pages/Assets/components/AssetForm.tsx": {
+    "file": "assets/AssetForm-DXFqafd5.js",
+    "name": "AssetForm",
+    "src": "resources/js/pages/Assets/components/AssetForm.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_jsx-runtime-BkrGPo5g.js",
+      "resources/js/app.tsx",
+      "_Button-DHKAKYrP.js",
+      "_Input-BaLZHXMw.js",
+      "_Select-B3UyekYz.js"
+    ]
+  },
+  "resources/js/pages/Assets/components/AssetRow.tsx": {
+    "file": "assets/AssetRow-mE0Ur86o.js",
+    "name": "AssetRow",
+    "src": "resources/js/pages/Assets/components/AssetRow.tsx",
+    "isDynamicEntry": true
+  },
+  "resources/js/pages/Assets/components/BalanceTimeline.tsx": {
+    "file": "assets/BalanceTimeline-Dalkkkgw.js",
+    "name": "BalanceTimeline",
+    "src": "resources/js/pages/Assets/components/BalanceTimeline.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_jsx-runtime-BkrGPo5g.js",
+      "_currency-yJpms9Gs.js"
+    ]
+  },
+  "resources/js/pages/Assets/components/MovementForm.tsx": {
+    "file": "assets/MovementForm-DFqgMLGO.js",
+    "name": "MovementForm",
+    "src": "resources/js/pages/Assets/components/MovementForm.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_jsx-runtime-BkrGPo5g.js",
+      "resources/js/app.tsx",
+      "_Button-DHKAKYrP.js"
+    ]
+  },
+  "resources/js/pages/Assets/components/ProjectionChart.tsx": {
+    "file": "assets/ProjectionChart-C5WBPnu2.js",
+    "name": "ProjectionChart",
+    "src": "resources/js/pages/Assets/components/ProjectionChart.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_jsx-runtime-BkrGPo5g.js",
+      "resources/js/app.tsx",
+      "_CartesianChart-CUpQHrll.js",
+      "_Line-ntlvVF96.js",
+      "_ComposedChart-BXxoRZCy.js",
+      "_currency-yJpms9Gs.js"
+    ]
+  },
+  "resources/js/pages/Auth/ForgotPassword.tsx": {
+    "file": "assets/ForgotPassword-VoUvYF94.js",
+    "name": "ForgotPassword",
+    "src": "resources/js/pages/Auth/ForgotPassword.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_jsx-runtime-BkrGPo5g.js",
+      "resources/js/app.tsx",
+      "_Button-DHKAKYrP.js",
+      "_Input-BaLZHXMw.js",
+      "_GuestLayout-B4TJeG3F.js"
+    ]
+  },
+  "resources/js/pages/Auth/Login.tsx": {
+    "file": "assets/Login-Dxj4GvXM.js",
+    "name": "Login",
+    "src": "resources/js/pages/Auth/Login.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_jsx-runtime-BkrGPo5g.js",
+      "resources/js/app.tsx",
+      "_Button-DHKAKYrP.js",
+      "_Input-BaLZHXMw.js",
+      "_GuestLayout-B4TJeG3F.js"
+    ]
+  },
+  "resources/js/pages/Auth/Register.tsx": {
+    "file": "assets/Register-BKqN_PGY.js",
+    "name": "Register",
+    "src": "resources/js/pages/Auth/Register.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_jsx-runtime-BkrGPo5g.js",
+      "resources/js/app.tsx",
+      "_Button-DHKAKYrP.js",
+      "_Input-BaLZHXMw.js",
+      "_GuestLayout-B4TJeG3F.js"
+    ]
+  },
+  "resources/js/pages/Categories/Index.tsx": {
+    "file": "assets/Index-VZwEDjsd.js",
+    "name": "Index",
+    "src": "resources/js/pages/Categories/Index.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_jsx-runtime-BkrGPo5g.js",
+      "resources/js/app.tsx",
+      "_AppLayout-88sX-8Ec.js",
+      "_Button-DHKAKYrP.js",
+      "_Modal-D-rHd-dq.js",
+      "resources/js/pages/Categories/components/CategoryForm.tsx"
+    ]
+  },
+  "resources/js/pages/Categories/components/CategoryForm.tsx": {
+    "file": "assets/CategoryForm-BN1szTJe.js",
+    "name": "CategoryForm",
+    "src": "resources/js/pages/Categories/components/CategoryForm.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_jsx-runtime-BkrGPo5g.js",
+      "resources/js/app.tsx",
+      "_Button-DHKAKYrP.js",
+      "_Input-BaLZHXMw.js",
+      "_Select-B3UyekYz.js"
+    ]
+  },
+  "resources/js/pages/Dashboard/Index.tsx": {
+    "file": "assets/Index-B0pTXpmG.js",
+    "name": "Index",
+    "src": "resources/js/pages/Dashboard/Index.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_jsx-runtime-BkrGPo5g.js",
+      "resources/js/app.tsx",
+      "_AppLayout-88sX-8Ec.js",
+      "_Button-DHKAKYrP.js",
+      "_Card-BT7TTlgg.js",
+      "resources/js/pages/Dashboard/components/AccountsSummary.tsx",
+      "resources/js/pages/Dashboard/components/AssetsList.tsx",
+      "resources/js/pages/Dashboard/components/DebtWidget.tsx",
+      "resources/js/pages/Dashboard/components/FixedExpensesWidget.tsx",
+      "resources/js/pages/Dashboard/components/RecentTransactions.tsx",
+      "resources/js/pages/Dashboard/components/RetirementWidget.tsx",
+      "resources/js/pages/Dashboard/components/SummaryCard.tsx"
+    ]
+  },
+  "resources/js/pages/Dashboard/components/AccountsSummary.tsx": {
+    "file": "assets/AccountsSummary-By_EOP36.js",
+    "name": "AccountsSummary",
+    "src": "resources/js/pages/Dashboard/components/AccountsSummary.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_jsx-runtime-BkrGPo5g.js",
+      "resources/js/app.tsx",
+      "_currency-yJpms9Gs.js"
+    ]
+  },
+  "resources/js/pages/Dashboard/components/AssetsList.tsx": {
+    "file": "assets/AssetsList-BEhbzwc_.js",
+    "name": "AssetsList",
+    "src": "resources/js/pages/Dashboard/components/AssetsList.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_jsx-runtime-BkrGPo5g.js",
+      "_Badge-DoMRWgC7.js",
+      "_currency-yJpms9Gs.js"
+    ]
+  },
+  "resources/js/pages/Dashboard/components/DebtWidget.tsx": {
+    "file": "assets/DebtWidget-BnFN2LMh.js",
+    "name": "DebtWidget",
+    "src": "resources/js/pages/Dashboard/components/DebtWidget.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_jsx-runtime-BkrGPo5g.js",
+      "resources/js/app.tsx"
+    ]
+  },
+  "resources/js/pages/Dashboard/components/FixedExpensesWidget.tsx": {
+    "file": "assets/FixedExpensesWidget-FEVpqnfE.js",
+    "name": "FixedExpensesWidget",
+    "src": "resources/js/pages/Dashboard/components/FixedExpensesWidget.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_jsx-runtime-BkrGPo5g.js",
+      "resources/js/app.tsx",
+      "_ProgressBar-fNHIxi6a.js",
+      "_currency-yJpms9Gs.js"
+    ]
+  },
+  "resources/js/pages/Dashboard/components/RecentTransactions.tsx": {
+    "file": "assets/RecentTransactions-2NFOZrRS.js",
+    "name": "RecentTransactions",
+    "src": "resources/js/pages/Dashboard/components/RecentTransactions.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_jsx-runtime-BkrGPo5g.js",
+      "resources/js/app.tsx",
+      "_Badge-DoMRWgC7.js",
+      "_CategoryChip-BIQm_OD5.js",
+      "_currency-yJpms9Gs.js"
+    ]
+  },
+  "resources/js/pages/Dashboard/components/RetirementWidget.tsx": {
+    "file": "assets/RetirementWidget-DIN078TD.js",
+    "name": "RetirementWidget",
+    "src": "resources/js/pages/Dashboard/components/RetirementWidget.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_jsx-runtime-BkrGPo5g.js",
+      "resources/js/app.tsx"
+    ]
+  },
+  "resources/js/pages/Dashboard/components/SummaryCard.tsx": {
+    "file": "assets/SummaryCard-CgDiRQUB.js",
+    "name": "SummaryCard",
+    "src": "resources/js/pages/Dashboard/components/SummaryCard.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_jsx-runtime-BkrGPo5g.js",
+      "_currency-yJpms9Gs.js"
+    ]
+  },
+  "resources/js/pages/FixedExpenses/Index.tsx": {
+    "file": "assets/Index-DqfMV5Ir.js",
+    "name": "Index",
+    "src": "resources/js/pages/FixedExpenses/Index.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_jsx-runtime-BkrGPo5g.js",
+      "resources/js/app.tsx",
+      "_AppLayout-88sX-8Ec.js",
+      "_Button-DHKAKYrP.js",
+      "_Modal-D-rHd-dq.js",
+      "resources/js/pages/FixedExpenses/components/ChecklistItem.tsx",
+      "resources/js/pages/FixedExpenses/components/FixedExpenseForm.tsx",
+      "resources/js/pages/FixedExpenses/components/SummaryPanel.tsx"
+    ]
+  },
+  "resources/js/pages/FixedExpenses/components/ChecklistItem.tsx": {
+    "file": "assets/ChecklistItem-CWp10JV6.js",
+    "name": "ChecklistItem",
+    "src": "resources/js/pages/FixedExpenses/components/ChecklistItem.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_jsx-runtime-BkrGPo5g.js",
+      "resources/js/app.tsx",
+      "_Button-DHKAKYrP.js",
+      "_CategoryChip-BIQm_OD5.js",
+      "_currency-yJpms9Gs.js"
+    ]
+  },
+  "resources/js/pages/FixedExpenses/components/FixedExpenseForm.tsx": {
+    "file": "assets/FixedExpenseForm-BDd3VlHH.js",
+    "name": "FixedExpenseForm",
+    "src": "resources/js/pages/FixedExpenses/components/FixedExpenseForm.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_jsx-runtime-BkrGPo5g.js",
+      "resources/js/app.tsx",
+      "_Button-DHKAKYrP.js",
+      "_CategorySelect-wmFt0h9c.js",
+      "_Input-BaLZHXMw.js",
+      "_Select-B3UyekYz.js"
+    ]
+  },
+  "resources/js/pages/FixedExpenses/components/SummaryPanel.tsx": {
+    "file": "assets/SummaryPanel-BFj_02vu.js",
+    "name": "SummaryPanel",
+    "src": "resources/js/pages/FixedExpenses/components/SummaryPanel.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_jsx-runtime-BkrGPo5g.js",
+      "_ProgressBar-fNHIxi6a.js",
+      "_currency-yJpms9Gs.js"
+    ]
+  },
+  "resources/js/pages/Liabilities/Index.tsx": {
+    "file": "assets/Index-CRtY-Dyh.js",
+    "name": "Index",
+    "src": "resources/js/pages/Liabilities/Index.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_jsx-runtime-BkrGPo5g.js",
+      "resources/js/app.tsx",
+      "_AppLayout-88sX-8Ec.js",
+      "_Badge-DoMRWgC7.js",
+      "_Button-DHKAKYrP.js",
+      "_Card-BT7TTlgg.js",
+      "resources/js/pages/Liabilities/components/LiabilityForm.tsx",
+      "resources/js/pages/Liabilities/components/RegisterPaymentModal.tsx",
+      "_utils-lfUyGLJm.js"
+    ]
+  },
+  "resources/js/pages/Liabilities/Show.tsx": {
+    "file": "assets/Show-yLfNCct3.js",
+    "name": "Show",
+    "src": "resources/js/pages/Liabilities/Show.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_jsx-runtime-BkrGPo5g.js",
+      "resources/js/app.tsx",
+      "_CartesianChart-CUpQHrll.js",
+      "_Area-BDVHfbLu.js",
+      "_Line-ntlvVF96.js",
+      "_AppLayout-88sX-8Ec.js",
+      "_Badge-DoMRWgC7.js",
+      "_Button-DHKAKYrP.js",
+      "_Card-BT7TTlgg.js",
+      "_Input-BaLZHXMw.js",
+      "_Modal-D-rHd-dq.js",
+      "resources/js/pages/Liabilities/components/RegisterPaymentModal.tsx",
+      "_utils-lfUyGLJm.js"
+    ]
+  },
+  "resources/js/pages/Liabilities/components/LiabilityForm.tsx": {
+    "file": "assets/LiabilityForm-3qjtO-f-.js",
+    "name": "LiabilityForm",
+    "src": "resources/js/pages/Liabilities/components/LiabilityForm.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_jsx-runtime-BkrGPo5g.js",
+      "resources/js/app.tsx",
+      "_Button-DHKAKYrP.js",
+      "_Input-BaLZHXMw.js",
+      "_Modal-D-rHd-dq.js",
+      "_Select-B3UyekYz.js",
+      "_utils-lfUyGLJm.js"
+    ]
+  },
+  "resources/js/pages/Liabilities/components/RegisterPaymentModal.tsx": {
+    "file": "assets/RegisterPaymentModal-TjJPeIjH.js",
+    "name": "RegisterPaymentModal",
+    "src": "resources/js/pages/Liabilities/components/RegisterPaymentModal.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_jsx-runtime-BkrGPo5g.js",
+      "resources/js/app.tsx",
+      "_Button-DHKAKYrP.js",
+      "_Input-BaLZHXMw.js",
+      "_Modal-D-rHd-dq.js",
+      "_Select-B3UyekYz.js"
+    ]
+  },
+  "resources/js/pages/Projections/Index.tsx": {
+    "file": "assets/Index-DjMlI6P-.js",
+    "name": "Index",
+    "src": "resources/js/pages/Projections/Index.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_jsx-runtime-BkrGPo5g.js",
+      "resources/js/app.tsx",
+      "_CartesianChart-CUpQHrll.js",
+      "_Area-BDVHfbLu.js",
+      "_Line-ntlvVF96.js",
+      "_ComposedChart-BXxoRZCy.js",
+      "_AppLayout-88sX-8Ec.js",
+      "_Card-BT7TTlgg.js",
+      "_currency-yJpms9Gs.js"
+    ]
+  },
+  "resources/js/pages/Reports/Index.tsx": {
+    "file": "assets/Index-C0b7446g.js",
+    "name": "Index",
+    "src": "resources/js/pages/Reports/Index.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_jsx-runtime-BkrGPo5g.js",
+      "resources/js/app.tsx",
+      "_AppLayout-88sX-8Ec.js",
+      "_Button-DHKAKYrP.js",
+      "_Card-BT7TTlgg.js",
+      "_Select-B3UyekYz.js"
+    ]
+  },
+  "resources/js/pages/RetirementPlanner/Index.tsx": {
+    "file": "assets/Index-Fh6veFbw.js",
+    "name": "Index",
+    "src": "resources/js/pages/RetirementPlanner/Index.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_jsx-runtime-BkrGPo5g.js",
+      "resources/js/app.tsx",
+      "_CartesianChart-CUpQHrll.js",
+      "_Area-BDVHfbLu.js",
+      "_Line-ntlvVF96.js",
+      "_ComposedChart-BXxoRZCy.js",
+      "_AppLayout-88sX-8Ec.js",
+      "_Button-DHKAKYrP.js",
+      "_Card-BT7TTlgg.js",
+      "_Input-BaLZHXMw.js",
+      "_currency-yJpms9Gs.js"
+    ]
+  },
+  "resources/js/pages/Transactions/Index.tsx": {
+    "file": "assets/Index-BF1CHy2Q.js",
+    "name": "Index",
+    "src": "resources/js/pages/Transactions/Index.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_jsx-runtime-BkrGPo5g.js",
+      "resources/js/app.tsx",
+      "_CartesianChart-CUpQHrll.js",
+      "_graphicalItemSelectors-G85J1gZJ.js",
+      "_AppLayout-88sX-8Ec.js",
+      "_Button-DHKAKYrP.js",
+      "_Card-BT7TTlgg.js",
+      "_Modal-D-rHd-dq.js",
+      "resources/js/pages/Transactions/components/TransactionFilters.tsx",
+      "resources/js/pages/Transactions/components/TransactionForm.tsx",
+      "resources/js/pages/Transactions/components/TransactionRow.tsx"
+    ]
+  },
+  "resources/js/pages/Transactions/components/TransactionFilters.tsx": {
+    "file": "assets/TransactionFilters-xqfNZoPb.js",
+    "name": "TransactionFilters",
+    "src": "resources/js/pages/Transactions/components/TransactionFilters.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_jsx-runtime-BkrGPo5g.js",
+      "resources/js/app.tsx",
+      "_Button-DHKAKYrP.js",
+      "_Input-BaLZHXMw.js",
+      "_Select-B3UyekYz.js"
+    ]
+  },
+  "resources/js/pages/Transactions/components/TransactionForm.tsx": {
+    "file": "assets/TransactionForm-Cl_KMTWw.js",
+    "name": "TransactionForm",
+    "src": "resources/js/pages/Transactions/components/TransactionForm.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_jsx-runtime-BkrGPo5g.js",
+      "resources/js/app.tsx",
+      "_Button-DHKAKYrP.js",
+      "_CategorySelect-wmFt0h9c.js",
+      "_Input-BaLZHXMw.js",
+      "_Select-B3UyekYz.js",
+      "_calculations-CPW78aOx.js",
+      "_currency-yJpms9Gs.js"
+    ]
+  },
+  "resources/js/pages/Transactions/components/TransactionRow.tsx": {
+    "file": "assets/TransactionRow-CDYGmpdC.js",
+    "name": "TransactionRow",
+    "src": "resources/js/pages/Transactions/components/TransactionRow.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_jsx-runtime-BkrGPo5g.js",
+      "resources/js/app.tsx",
+      "_Badge-DoMRWgC7.js",
+      "_Button-DHKAKYrP.js",
+      "_CategoryChip-BIQm_OD5.js",
+      "_currency-yJpms9Gs.js"
+    ]
+  }
+}

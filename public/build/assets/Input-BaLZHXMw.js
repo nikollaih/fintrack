@@ -1,0 +1,4 @@
+import{i as e,t}from"./jsx-runtime-BkrGPo5g.js";import{o as n}from"./app-Drwo84xX.js";var r=e(n(),1),i=t(),a=(0,r.forwardRef)(({label:e,error:t,className:n=``,id:r,...a},o)=>{let s=r??e?.toLowerCase().replace(/\s+/g,`_`);return(0,i.jsxs)(`div`,{className:`flex flex-col gap-1`,children:[e&&(0,i.jsx)(`label`,{htmlFor:s,className:`text-sm font-medium text-gray-700`,children:e}),(0,i.jsx)(`input`,{ref:o,id:s,className:`w-full rounded-lg border px-3 py-2 text-sm transition-colors
+                        focus:outline-none focus:ring-2 focus:ring-primary-500 focus:border-transparent
+                        ${t?`border-red-400 bg-red-50`:`border-gray-300 bg-white`}
+                        ${n}`,...a}),t&&(0,i.jsx)(`p`,{className:`text-xs text-red-600`,children:t})]})});a.displayName=`Input`;export{a as t};
