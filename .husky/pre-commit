@@ -1,0 +1,12 @@
+echo "🔨 Building frontend assets..."
+npm run build
+
+if [ $? -ne 0 ]; then
+  echo "❌ Build failed. Commit aborted."
+  exit 1
+fi
+
+echo "📦 Staging public/build/..."
+git add public/build/
+
+echo "✅ Build listo. Continuando con el commit."
