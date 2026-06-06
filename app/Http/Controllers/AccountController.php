@@ -39,7 +39,18 @@ class AccountController extends Controller
             ->get();
 
         return Inertia::render('Accounts/Show', [
-            'account' => new AccountResource($account),
+            'account' => [
+                'id'              => $account->id,
+                'name'            => $account->name,
+                'type'            => $account->type,
+                'currency'        => $account->currency,
+                'initial_balance' => (float) $account->initial_balance,
+                'balance'         => (float) $account->computeBalance(),
+                'is_active'       => $account->is_active,
+                'is_credit_card'  => $account->isCreditCard(),
+                'notes'           => $account->notes,
+                'created_at'      => $account->created_at->toISOString(),
+            ],
             'transactions' => TransactionResource::collection($transactions),
             'transfers' => TransferResource::collection($transfers),
         ]);
